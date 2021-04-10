@@ -3,8 +3,8 @@
 <a href="https://orcid.org/0000-0003-0528-1713" alt="ORCID"><img src="http://chenpingjun.com/pics/icons/orcid.png" height="30px"/></a>
 
 - 🔭 Postdoctoral fellow at MD Anderson Cancer Center
-- ⚡ Focus on biomedical image analysis
+- ⚡ Focus on biomedical image analysis 
 - 👯 Looking to collaborate on computational pathology 
-- 🌱 Currently learning R for statistical computing and visualization
-- 📫 Reach me via pingjunchen@ieee.org, and call me Ping
+- 🌱 Currently learning R for statistical computing & data visualization
+- 📫 Reach me via pingjunchen@ieee.org & call me Ping
 - 😄 Soccer & Tango enthusiast
