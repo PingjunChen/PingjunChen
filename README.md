@@ -7,4 +7,4 @@
 - 👯 Looking to collaborate on computational pathology 
 - 🌱 Currently learning R for statistical computing and visualization
 - 📫 Reach me via pingjunchen@ieee.org, and call me Ping
-- 😄 Soccer & Tango Enthusiast
+- 😄 Soccer & Tango enthusiast
