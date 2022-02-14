@@ -1,4 +1,4 @@
-- 🔭 Postdoctoral Fellow at MD Anderson Cancer Center
+- 🔭 Postdoctoral Fellow at UT MD Anderson Cancer Center
 - 👯 Looking to collaborate on computational pathology
 - 📫 Reach me via pingjunchen@ieee.org
 
