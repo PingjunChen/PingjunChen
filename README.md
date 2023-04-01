@@ -1,6 +1,5 @@
-- 🔭 Postdoctoral Fellow at UT MD Anderson Cancer Center
-- 👯 Looking to collaborate on computational pathology
-- 📫 Reach me via pingjunchen@ieee.org
+- 🔭 Instructor at UT MD Anderson Cancer Center
+- 👯 Looking to collaborate on computational biomedical research
 
 <a href="http://chenpingjun.com/" alt="Homepage"><img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/000000/external-homepage-web-hosting-flatarticons-blue-flatarticons.png" height="32px"/></a>
 <a href="https://scholar.google.com/citations?user=vXuam0cAAAAJ" alt="Google Scholar"><img src="http://chenpingjun.com/pics/icons/google_scholar.png" height="30px"/></a>
