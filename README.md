@@ -1,4 +1,4 @@
-- 🔭 Instructor at MD Anderson Cancer Center
+- 🔭 Instructor at UT MD Anderson Cancer Center
 - 👯 Looking to collaborate on computational pathology
 
 <a href="http://chenpingjun.com/" alt="Homepage"><img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/000000/external-homepage-web-hosting-flatarticons-blue-flatarticons.png" height="32px"/></a>
