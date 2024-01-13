@@ -1,4 +1,4 @@
-- Medical AI Scientist at [UT MD Anderson Cancer Center](https://www.mdanderson.org)
+- Principal Data Scientist at [UT MD Anderson Cancer Center](https://www.mdanderson.org)
 - Looking to collaborate on computational pathology
 
 &nbsp; &nbsp; 
